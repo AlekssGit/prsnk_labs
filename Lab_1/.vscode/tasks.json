@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+			"label": "Run Modelsim",
+			"type": "process",
+			"command": ".vscode\\runmodelsim.cmd",
+			
+			"options": {
+				"cwd": "${workspaceRoot}",
+				"shell": {
+					"executable": "cmd.exe",
+					"args": ["/C"]
+				}
+            }, 
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			},
+			// "args": ["${fileBasename}"]
+			"args": ["tb_shift_reg_top.tcl"]
+		}
+    ]
+}

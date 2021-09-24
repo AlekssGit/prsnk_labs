@@ -1,0 +1,186 @@
+|shift_reg
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => data_reg.OUTPUTSELECT
+btn_i => prev_btn.DATAIN
+digit_i => data_reg.DATAB
+clk => clk.IN1
+reset => reset.IN1
+semisigment_digits[0] <= semisigments_show:show_sems.digits
+semisigment_digits[1] <= semisigments_show:show_sems.digits
+semisigment_digits[2] <= semisigments_show:show_sems.digits
+semisigment_digits[3] <= semisigments_show:show_sems.digits
+semisigment_data[0] <= semisigments_show:show_sems.lcd_out
+semisigment_data[1] <= semisigments_show:show_sems.lcd_out
+semisigment_data[2] <= semisigments_show:show_sems.lcd_out
+semisigment_data[3] <= semisigments_show:show_sems.lcd_out
+semisigment_data[4] <= semisigments_show:show_sems.lcd_out
+semisigment_data[5] <= semisigments_show:show_sems.lcd_out
+semisigment_data[6] <= semisigments_show:show_sems.lcd_out
+
+
+|shift_reg|semisigments_show:show_sems
+i_clock => i_clock.IN1
+nreset_i => nreset_i.IN1
+data_dig_0[0] => data_dig_0[0].IN1
+data_dig_0[1] => data_dig_0[1].IN1
+data_dig_0[2] => data_dig_0[2].IN1
+data_dig_0[3] => data_dig_0[3].IN1
+data_dig_1[0] => data_dig_1[0].IN1
+data_dig_1[1] => data_dig_1[1].IN1
+data_dig_1[2] => data_dig_1[2].IN1
+data_dig_1[3] => data_dig_1[3].IN1
+data_dig_2[0] => data_dig_2[0].IN1
+data_dig_2[1] => data_dig_2[1].IN1
+data_dig_2[2] => data_dig_2[2].IN1
+data_dig_2[3] => data_dig_2[3].IN1
+data_dig_3[0] => data_dig_3[0].IN1
+data_dig_3[1] => data_dig_3[1].IN1
+data_dig_3[2] => data_dig_3[2].IN1
+data_dig_3[3] => data_dig_3[3].IN1
+digits[0] <= digits[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+digits[1] <= digits[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+digits[2] <= digits[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+digits[3] <= digits[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+lcd_out[0] <= lcd_out[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+lcd_out[1] <= lcd_out[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+lcd_out[2] <= lcd_out[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+lcd_out[3] <= lcd_out[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+lcd_out[4] <= lcd_out[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+lcd_out[5] <= lcd_out[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+lcd_out[6] <= lcd_out[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|shift_reg|semisigments_show:show_sems|generator:gen_led
+nreset_i => o_clk~reg0.ACLR
+nreset_i => counter[0].ENA
+nreset_i => counter[31].ENA
+nreset_i => counter[30].ENA
+nreset_i => counter[29].ENA
+nreset_i => counter[28].ENA
+nreset_i => counter[27].ENA
+nreset_i => counter[26].ENA
+nreset_i => counter[25].ENA
+nreset_i => counter[24].ENA
+nreset_i => counter[23].ENA
+nreset_i => counter[22].ENA
+nreset_i => counter[21].ENA
+nreset_i => counter[20].ENA
+nreset_i => counter[19].ENA
+nreset_i => counter[18].ENA
+nreset_i => counter[17].ENA
+nreset_i => counter[16].ENA
+nreset_i => counter[15].ENA
+nreset_i => counter[14].ENA
+nreset_i => counter[13].ENA
+nreset_i => counter[12].ENA
+nreset_i => counter[11].ENA
+nreset_i => counter[10].ENA
+nreset_i => counter[9].ENA
+nreset_i => counter[8].ENA
+nreset_i => counter[7].ENA
+nreset_i => counter[6].ENA
+nreset_i => counter[5].ENA
+nreset_i => counter[4].ENA
+nreset_i => counter[3].ENA
+nreset_i => counter[2].ENA
+nreset_i => counter[1].ENA
+i_clk => counter[0].CLK
+i_clk => counter[1].CLK
+i_clk => counter[2].CLK
+i_clk => counter[3].CLK
+i_clk => counter[4].CLK
+i_clk => counter[5].CLK
+i_clk => counter[6].CLK
+i_clk => counter[7].CLK
+i_clk => counter[8].CLK
+i_clk => counter[9].CLK
+i_clk => counter[10].CLK
+i_clk => counter[11].CLK
+i_clk => counter[12].CLK
+i_clk => counter[13].CLK
+i_clk => counter[14].CLK
+i_clk => counter[15].CLK
+i_clk => counter[16].CLK
+i_clk => counter[17].CLK
+i_clk => counter[18].CLK
+i_clk => counter[19].CLK
+i_clk => counter[20].CLK
+i_clk => counter[21].CLK
+i_clk => counter[22].CLK
+i_clk => counter[23].CLK
+i_clk => counter[24].CLK
+i_clk => counter[25].CLK
+i_clk => counter[26].CLK
+i_clk => counter[27].CLK
+i_clk => counter[28].CLK
+i_clk => counter[29].CLK
+i_clk => counter[30].CLK
+i_clk => counter[31].CLK
+i_clk => o_clk~reg0.CLK
+o_clk <= o_clk~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|shift_reg|semisigments_show:show_sems|semisegment:seg_dig_0
+number[0] => Decoder0.IN3
+number[1] => Decoder0.IN2
+number[2] => Decoder0.IN1
+number[3] => Decoder0.IN0
+result[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|shift_reg|semisigments_show:show_sems|semisegment:seg_dig_1
+number[0] => Decoder0.IN3
+number[1] => Decoder0.IN2
+number[2] => Decoder0.IN1
+number[3] => Decoder0.IN0
+result[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|shift_reg|semisigments_show:show_sems|semisegment:seg_dig_2
+number[0] => Decoder0.IN3
+number[1] => Decoder0.IN2
+number[2] => Decoder0.IN1
+number[3] => Decoder0.IN0
+result[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|shift_reg|semisigments_show:show_sems|semisegment:seg_dig_3
+number[0] => Decoder0.IN3
+number[1] => Decoder0.IN2
+number[2] => Decoder0.IN1
+number[3] => Decoder0.IN0
+result[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

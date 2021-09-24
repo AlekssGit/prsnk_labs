@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -4.279
+TNS   : -131.113
+
+Type  : Slow 1200mV 85C Model Setup 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : -2.145
+TNS   : -16.127
+
+Type  : Slow 1200mV 85C Model Hold 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : 0.464
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.531
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -68.428
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -3.978
+TNS   : -120.128
+
+Type  : Slow 1200mV 0C Model Setup 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : -1.991
+TNS   : -14.345
+
+Type  : Slow 1200mV 0C Model Hold 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.493
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -68.428
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -1.285
+TNS   : -29.175
+
+Type  : Fast 1200mV 0C Model Setup 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : -0.422
+TNS   : -1.941
+
+Type  : Fast 1200mV 0C Model Hold 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.222
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -49.884
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'semisigments_show:show_sems|generator:gen_led|o_clk'
+Slack : -1.000
+TNS   : -11.000
+
+------------------------------------------------------------

@@ -1,0 +1,657 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              obj/default/main.o (__mulsi3)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o (alt_load)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o (alt_main)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+                              obj/default/main.o (alt_putstr)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o) (jtag_uart_0)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o) (altera_avalon_jtag_uart_write)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o) (close)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o) (_do_ctors)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o) (_do_dtors)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o) (alt_errno)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o) (atexit)
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o) (exit)
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o) (errno)
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o) (strlen)
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+                              c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                              c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o) (__call_exitprocs)
+c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                              c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o) (_global_impure_ptr)
+D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+                              c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+
+Discarded input sections
+
+ .gnu.warning.close
+                0x0000000000000000        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000008000 0x0000000000000020
+onchip_memory2_0 0x0000000000008020 0x0000000000004e00
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+LOAD obj/default/main.o
+LOAD c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
+LOAD D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a
+LOAD c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+END GROUP
+LOAD c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
+                0x0000000000008000                __alt_mem_onchip_memory2_0 = 0x8000
+
+.entry          0x0000000000008000       0x20
+ *(.entry)
+ .entry         0x0000000000008000       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+                0x0000000000008000                __reset
+
+.exceptions     0x0000000000008020        0x0
+                0x0000000000008020                PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x0000000000008020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                0x0000000000008020                PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                0x0000000000008020                PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x0000000000008020      0x80c
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000008020       0x3c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+                0x0000000000008020                _start
+ .text          0x000000000000805c       0xc0 obj/default/main.o
+                0x000000000000805c                delay
+                0x00000000000080bc                main
+ .text          0x000000000000811c       0x28 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x000000000000811c                __mulsi3
+ .text          0x0000000000008144       0xec D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+                0x00000000000081ac                alt_load
+ .text          0x0000000000008230       0x60 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+                0x0000000000008230                alt_main
+ .text          0x0000000000008290       0x48 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+                0x0000000000008290                alt_putstr
+ .text          0x00000000000082d8       0x5c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+                0x00000000000082d8                alt_irq_init
+                0x0000000000008314                alt_sys_init
+ .text          0x0000000000008334       0x94 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000000000008334                altera_avalon_jtag_uart_write
+ .text          0x00000000000083c8       0x78 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+                0x0000000000008404                close
+ .text          0x0000000000008440       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000008440                alt_dcache_flush_all
+ .text          0x0000000000008460       0x64 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+                0x0000000000008460                _do_ctors
+ .text          0x00000000000084c4       0x64 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+                0x00000000000084c4                _do_dtors
+ .text          0x0000000000008528        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .text          0x0000000000008528       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000008528                alt_icache_flush_all
+ .text          0x0000000000008548       0x24 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000008548                altera_nios2_gen2_irq_init
+ .text          0x000000000000856c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .text.atexit   0x000000000000856c       0x14 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+                0x000000000000856c                atexit
+ .text          0x0000000000008580        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .text.exit     0x0000000000008580       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                0x0000000000008580                exit
+ .text          0x00000000000085a0        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x00000000000085a0        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x00000000000085a0       0x1c c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x00000000000085a0                strlen
+ .text          0x00000000000085bc        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000000085bc      0x11c c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+                0x00000000000085bc                __register_exitproc
+ .text          0x00000000000086d8        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000000086d8      0x11c c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                0x00000000000086d8                __call_exitprocs
+ .text          0x00000000000087f4        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .text          0x00000000000087f4       0x38 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+                0x00000000000087f4                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x000000000000882c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                0x000000000000882c                PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                0x000000000000882c                PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                0x000000000000882c                PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                0x000000000000882c                PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x000000000000882c                . = ALIGN (0x4)
+
+.rodata         0x000000000000882c       0x18
+                0x000000000000882c                PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x000000000000882c                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000000000000882c       0x15 obj/default/main.o
+ *(.rodata1)
+                0x0000000000008844                . = ALIGN (0x4)
+ *fill*         0x0000000000008841        0x3 
+                0x0000000000008844                PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                0x000000000000882c                PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x0000000000008844       0xf4 load address 0x0000000000008938
+                0x0000000000008844                PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x0000000000008844                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .data          0x0000000000008844        0x0 obj/default/main.o
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000000000008844        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000008844        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000008844       0xe4 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data          0x0000000000008928        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+                0x0000000000010928                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000000008928        0x4 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000008928                jtag_uart_0
+ .sdata         0x000000000000892c        0x4 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+                0x000000000000892c                alt_errno
+ .sdata._global_impure_ptr
+                0x0000000000008930        0x4 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x0000000000008930                _global_impure_ptr
+ .sdata._impure_ptr
+                0x0000000000008934        0x4 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x0000000000008934                _impure_ptr
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000000008938                . = ALIGN (0x4)
+                0x0000000000008938                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                0x0000000000008938                PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                0x0000000000008938                PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x0000000000008a2c       0x10
+                0x0000000000008a2c                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000000008a2c        0xc D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+                0x0000000000008a2c                alt_argc
+                0x0000000000008a30                alt_argv
+                0x0000000000008a34                alt_envp
+ .sbss          0x0000000000008a38        0x4 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x0000000000008a38                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .bss           0x0000000000008a3c        0x0 obj/default/main.o
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000008a3c        0x0 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .bss           0x0000000000008a3c        0x0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+                0x0000000000008a3c                . = ALIGN (0x4)
+                0x0000000000008a3c                __bss_end = ABSOLUTE (.)
+
+.onchip_memory2_0
+                0x0000000000008a3c        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_start = ABSOLUTE (.))
+ *(.onchip_memory2_0 .onchip_memory2_0. onchip_memory2_0.*)
+                0x0000000000008a3c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_end = ABSOLUTE (.))
+                0x0000000000008a3c                _end = ABSOLUTE (.)
+                0x0000000000008a3c                end = ABSOLUTE (.)
+                0x0000000000008a3c                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_load_addr = LOADADDR (.onchip_memory2_0))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2c
+ *(.comment)
+ .comment       0x0000000000000000       0x2c obj/default/main.o
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .comment       0x000000000000002c       0x2d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .comment       0x000000000000002c       0x2d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x2d0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x20 obj/default/main.o
+ .debug_aranges
+                0x0000000000000048       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x0000000000000068       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000088       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000000000000a8       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x0000000000000108       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x0000000000000128       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x0000000000000148       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x0000000000000168       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x0000000000000188       0x18 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000200       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000220       0x18 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x0000000000000238       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000258       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000278       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000298       0x18 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000002b0       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xa33a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x22 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000022       0xcc obj/default/main.o
+ .debug_info    0x00000000000000ee       0xcb c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x00000000000001b9      0x9f5 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000000000000bae      0xe76 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000000000001a24      0x978 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_info    0x000000000000239c      0xa43 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000002ddf      0xa93 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0000000000003872      0xc43 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00000000000044b5      0x934 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000004de9       0x88 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x0000000000004e71       0x88 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x0000000000004ef9      0x972 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x000000000000586b      0x934 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000000000000619f      0x955 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x0000000000006af4      0x689 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_info    0x000000000000717d      0x6c4 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_info    0x0000000000007841      0x614 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x0000000000007e55      0x649 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x000000000000849e      0x711 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000008baf      0x6f9 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000000092a8      0x6e8 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x0000000000009990      0x9aa D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x25d1
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012       0xa2 obj/default/main.o
+ .debug_abbrev  0x00000000000000b4       0x7d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x0000000000000131      0x21c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x000000000000034d      0x21e D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x000000000000056b      0x20a D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_abbrev  0x0000000000000775      0x253 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000009c8      0x234 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000000000000bfc      0x21d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x0000000000000e19      0x1e0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000000ff9       0x81 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x000000000000107a       0x81 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x00000000000010fb      0x1df D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000000000012da      0x1e0 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00000000000014ba      0x1e5 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x000000000000169f      0x1f4 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000001893      0x1e1 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000001a74      0x186 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000001bfa      0x1a8 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000001da2      0x238 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000001fda      0x21d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000000021f7      0x18d c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000002384      0x24d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x0000000000000000     0x2285
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x66 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066       0xc6 obj/default/main.o
+ .debug_line    0x000000000000012c       0xb6 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x00000000000001e2      0x1ab D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .debug_line    0x000000000000038d      0x280 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .debug_line    0x000000000000060d      0x109 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_line    0x0000000000000716      0x1a9 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00000000000008bf      0x20f D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000000ace      0x1bd D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .debug_line    0x0000000000000c8b      0x158 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000000de3       0x66 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x0000000000000e49       0x66 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x0000000000000eaf      0x117 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000000fc6      0x156 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x000000000000111c      0x11d D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x0000000000001239      0x1f7 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_line    0x0000000000001430      0x20c c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_line    0x000000000000163c      0x1ce c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x000000000000180a      0x1fa c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000001a04      0x2eb c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000001cef      0x2ef c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000001fde      0x15c c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x000000000000213a      0x14b D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x0000000000000000      0x45c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x54 obj/default/main.o
+ .debug_frame   0x0000000000000054       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x0000000000000074       0x5c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x00000000000000d0       0x2c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x00000000000000fc       0x38 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_frame   0x0000000000000134       0x5c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000190       0x34 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x00000000000001c4       0x60 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x0000000000000224       0x34 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000258       0x38 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x0000000000000290       0x38 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x00000000000002c8       0x34 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000000000002fc       0x34 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000000330       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000350       0x28 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000378       0x20 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000398       0x48 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000003e0       0x50 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000430       0x2c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x0000000000000000     0x115a
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0x5b D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .debug_str     0x000000000000005b       0xf9 obj/default/main.o
+                                        0x12c (size before relaxing)
+ .debug_str     0x0000000000000154      0x154 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                        0x19f (size before relaxing)
+ .debug_str     0x00000000000002a8      0x497 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_load.o)
+                                        0x5ef (size before relaxing)
+ .debug_str     0x000000000000073f      0x23a D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_main.o)
+                                        0x7c2 (size before relaxing)
+ .debug_str     0x0000000000000979       0x6a D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_putstr.o)
+                                        0x56d (size before relaxing)
+ .debug_str     0x00000000000009e3       0x8f D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_sys_init.o)
+                                        0x606 (size before relaxing)
+ .debug_str     0x0000000000000a72       0x2c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x62c (size before relaxing)
+ .debug_str     0x0000000000000a9e       0x33 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_close.o)
+                                        0x64a (size before relaxing)
+ .debug_str     0x0000000000000ad1       0x34 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x541 (size before relaxing)
+ .debug_str     0x0000000000000b05       0x48 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_ctors.o)
+                                         0xcd (size before relaxing)
+ .debug_str     0x0000000000000b4d       0x4c D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_do_dtors.o)
+                                         0xcc (size before relaxing)
+ .debug_str     0x0000000000000b99       0x14 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_errno.o)
+                                        0x52f (size before relaxing)
+ .debug_str     0x0000000000000bad       0x34 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x541 (size before relaxing)
+ .debug_str     0x0000000000000be1       0x3b D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x555 (size before relaxing)
+ .debug_str     0x0000000000000c1c      0x1c8 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+                                        0x512 (size before relaxing)
+ .debug_str     0x0000000000000de4       0x54 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+                                        0x513 (size before relaxing)
+ .debug_str     0x0000000000000e38       0xd6 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                        0x4ce (size before relaxing)
+ .debug_str     0x0000000000000f0e       0xdc c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                        0x4d1 (size before relaxing)
+ .debug_str     0x0000000000000fea       0x69 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+                                        0x558 (size before relaxing)
+ .debug_str     0x0000000000001053       0x54 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+                                        0x510 (size before relaxing)
+ .debug_str     0x00000000000010a7       0x89 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                                        0x528 (size before relaxing)
+ .debug_str     0x0000000000001130       0x2a D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp\libhal_bsp.a(alt_exit.o)
+                                        0x54a (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x446
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0xa7 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x00000000000000a7       0x32 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_loc     0x00000000000000d9       0x22 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_loc     0x00000000000000fb       0x44 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x000000000000013f      0x193 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_loc     0x00000000000002d2      0x174 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+                0x000000000000ce20                __alt_data_end = 0xce20
+                0x000000000000ce20                PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start = end)
+                [!provide]                        PROVIDE (__alt_heap_limit = 0xce20)
+OUTPUT(empty.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000       0x88
+ .debug_ranges  0x0000000000000000       0x20 D:/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x10 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-atexit.o)
+ .debug_ranges  0x0000000000000030       0x10 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-exit.o)
+ .debug_ranges  0x0000000000000040       0x10 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_ranges  0x0000000000000050       0x10 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__atexit.o)
+ .debug_ranges  0x0000000000000060       0x28 c:/altera/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-__call_atexit.o)

@@ -1,0 +1,6 @@
+17:00:36 **** Incremental Build of configuration Nios II for project empty_bsp ****
+wsl make all 
+[BSP build complete]
+
+17:00:37 Build Finished (took 485ms)
+

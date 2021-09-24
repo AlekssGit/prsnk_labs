@@ -1,0 +1,26 @@
+module blink_top (
+	input clk_50,
+	input reset_btn,
+	output [3:0] led,
+	inout sda,
+	inout scl);
+	
+	
+	
+	logic sda_oe, scl_oe, sda_in, scl_in;
+	
+	assign scl_in = scl;
+	assign scl = scl_oe ? 1'b0 : 1'bz;
+	
+	assign sda_in = sda;
+	assign sda = sda_oe ? 1'b0 : 1'bz;
+	
+	
+	test_blink tt (
+		.board_led_export(led),  			//  board_led.export
+		.clk_clk(clk_50),           		// clk.clk
+		.reset_reset_n(reset_btn)      	// reset.reset_n
+	);
+
+endmodule
+		

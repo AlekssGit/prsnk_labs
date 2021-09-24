@@ -1,0 +1,185 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Univer/PRSNK_Sharagina/Lab_1/simulation/modelsim
+T_opt
+Z1 !s110 1631888909
+V7am5XZ`4Lh69m1Kf4J9`n1
+04 12 4 work tb_shift_reg fast 0
+=1-7085c299ca2f-6144a60d-2df-d5c
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4c;61
+vbouncing
+Z2 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+R1
+!i10b 1
+!s100 mjaSh5J18E9T=9RTc^9;T2
+IE1;nBjF49XGnKf>4_3PV_0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 bouncing_sv_unit
+S1
+R0
+w1631870984
+8D:/Documents/Univer/PRSNK_Sharagina/Lab_1/bouncing.sv
+FD:/Documents/Univer/PRSNK_Sharagina/Lab_1/bouncing.sv
+L0 1
+Z4 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1631888909.000000
+!s107 D:/Documents/Univer/PRSNK_Sharagina/Lab_1/bouncing.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Documents/Univer/PRSNK_Sharagina/Lab_1|D:/Documents/Univer/PRSNK_Sharagina/Lab_1/bouncing.sv|
+!i113 0
+Z6 o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -sv -work work +incdir+D:/Documents/Univer/PRSNK_Sharagina/Lab_1 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vgenerator
+R2
+R1
+!i10b 1
+!s100 imF?GhOKHB:Rl@z9VmUC`3
+I=WLmDeFmOiMZMCd^EXaT@2
+R3
+!s105 generator_sv_unit
+S1
+R0
+w1629446272
+8D:/Documents/Univer/PRSNK_Sharagina/Lab_1/generator.sv
+FD:/Documents/Univer/PRSNK_Sharagina/Lab_1/generator.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Documents/Univer/PRSNK_Sharagina/Lab_1/generator.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Documents/Univer/PRSNK_Sharagina/Lab_1|D:/Documents/Univer/PRSNK_Sharagina/Lab_1/generator.sv|
+!i113 0
+R6
+R7
+vsemisegment
+R2
+R1
+!i10b 1
+!s100 G;^fh0_m_Qm4_?0HLSzWf3
+IWK_9aTCi3WUn?[:fdQnE?2
+R3
+!s105 semisegment_sv_unit
+S1
+R0
+w1631881781
+8D:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisegment.sv
+FD:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisegment.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisegment.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Documents/Univer/PRSNK_Sharagina/Lab_1|D:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisegment.sv|
+!i113 0
+R6
+R7
+vsemisigments_show
+R2
+R1
+!i10b 1
+!s100 [CXR<i2^kHkU6G@[48=?O3
+IL;So]m9:M]0jj2HYQZb>:2
+R3
+!s105 semisigments_show_sv_unit
+S1
+R0
+w1631717600
+8D:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisigments_show.sv
+FD:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisigments_show.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisigments_show.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Documents/Univer/PRSNK_Sharagina/Lab_1|D:/Documents/Univer/PRSNK_Sharagina/Lab_1/semisigments_show.sv|
+!i113 0
+R6
+R7
+vshift_reg
+R2
+R1
+!i10b 1
+!s100 zJKVdELmnCgZ75IXY=1E:3
+ICZ<ldgVoI2kE9mIhleiKX1
+R3
+!s105 shift_reg_sv_unit
+S1
+R0
+w1631884689
+8D:/Documents/Univer/PRSNK_Sharagina/Lab_1/shift_reg.sv
+FD:/Documents/Univer/PRSNK_Sharagina/Lab_1/shift_reg.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Documents/Univer/PRSNK_Sharagina/Lab_1/shift_reg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Documents/Univer/PRSNK_Sharagina/Lab_1|D:/Documents/Univer/PRSNK_Sharagina/Lab_1/shift_reg.sv|
+!i113 0
+R6
+R7
+vtb_shift_reg
+R2
+DXx4 work 20 tb_shift_reg_sv_unit 0 22 @ia1SgX]E2T1g7`8dd6?f2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?mN3JX`W@bX2jlhHehTla3
+I;B[^f2D:IU8;FG]:TBoWD2
+!s105 tb_shift_reg_sv_unit
+S1
+R0
+Z8 w1631886132
+Z9 8D:/Documents/Univer/PRSNK_Sharagina/Lab_1/tb_shift_reg.sv
+Z10 FD:/Documents/Univer/PRSNK_Sharagina/Lab_1/tb_shift_reg.sv
+L0 7
+R4
+R5
+Z11 !s107 D:/Documents/Univer/PRSNK_Sharagina/Lab_1/tb_shift_reg.sv|
+Z12 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Documents/Univer/PRSNK_Sharagina/Lab_1|D:/Documents/Univer/PRSNK_Sharagina/Lab_1/tb_shift_reg.sv|
+!i113 0
+R6
+R7
+Xtb_shift_reg_sv_unit
+R2
+V@ia1SgX]E2T1g7`8dd6?f2
+r1
+!s85 0
+31
+!i10b 1
+!s100 K1>^GA_YU6;E_?]Xm`TgX2
+I@ia1SgX]E2T1g7`8dd6?f2
+!i103 1
+S1
+R0
+R8
+R9
+R10
+L0 3
+R4
+R5
+R11
+R12
+!i113 0
+R6
+R7

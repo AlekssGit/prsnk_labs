@@ -1,0 +1,75 @@
+`timescale 1ns/1ps
+
+module tb_shift_reg;
+
+logic btn;
+logic digit;
+logic clk;
+logic reset;
+logic [6:0] semisigment_data;
+logic [3:0] semisisgment_digits;
+
+shift_reg device (
+	.btn_i  (btn),			    //Trigger to shift
+	.digit  (digit),			//Data shifted
+	.clk    (clk),			    //Input clk
+	.reset  (reset),			//Input reset
+
+	.semisigment_digits (semisigment_digits),       //Control semisigment digits
+	.semisigment_data   (semisiment_data)		    //Displaying data
+);
+
+enum int unsigned {IDLE, LOW_BTN, BOUNCING, HIGH_BTN} test_stage;
+
+initial 
+begin
+    reset = 1'b0;
+    #5
+    reset = 1'b1;
+    #5
+    reset = 1'b0;
+
+    btn = 1'b0;
+    digit = 1'b0;
+
+    test_stage = IDLE;
+
+    forever 
+    begin
+        #5
+        clk = 1'b1;
+        if(test_stage == BOUNCING)
+            randomize(btn);
+        #5 
+        clk = 1'b0;
+        if(test_stage == BOUNCING)
+            randomize(btn);
+
+        if(test_stage == LOW_BTN)
+        begin
+            btn = 1'b0;
+        end
+        else if(test_stage == HIGH_BTN)
+        begin
+            btn = 1'b1;
+        end
+
+        // for(int i = 0; i < 150; i++)
+        // begin
+        //     if(i == 5 || i == 45 || i == 100)
+        //         clk = 1;
+        //     if(i == 10 || i == 50 || i == 105) 
+        //         clk = 0;
+
+        //     if(i == 1 || i == 33 | i == 40 | i == 52)
+        //         btn = 1'b1;   
+
+        //     if(i == 3 || i == 37 | i == 48 | i == 63)
+        //         btn = 1'b0;      
+        // end  
+
+        // btn = 1'b1;  
+    end    
+end
+
+endmodule

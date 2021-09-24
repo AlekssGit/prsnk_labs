@@ -1,0 +1,10 @@
+17:13:22 **** Incremental Build of configuration Nios II for project nios_soft_led ****
+wsl make all 
+touch empty.elf.srec
+Info: Building /mnt/d/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/
+make --no-print-directory -C /mnt/d/Documents/Univer/PRSNK_Sharagina/Lab_2/software/empty_bsp/
+[BSP build complete]
+[empty build complete]
+
+17:13:23 Build Finished (took 1s.390ms)
+
