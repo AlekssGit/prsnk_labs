@@ -1,0 +1,12 @@
+# quartus project files
+incremental_db/
+db/
+output_files/
+sim/
+simulation/
+
+#vscode project files
+.vscode/
+
+#there is no need to use quartus backups since we using git
+*.bak
