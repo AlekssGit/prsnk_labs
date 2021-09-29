@@ -2,76 +2,64 @@
 Timing Analyzer Summary
 ------------------------------------------------------------
 
-Type  : Slow 1200mV 85C Model Setup 'clk'
-Slack : -4.279
-TNS   : -131.113
-
-Type  : Slow 1200mV 85C Model Setup 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : -2.145
-TNS   : -16.127
-
-Type  : Slow 1200mV 85C Model Hold 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : 0.464
+Type  : Slow 1200mV 85C Model Setup 'altera_reserved_tck'
+Slack : 42.798
 TNS   : 0.000
 
-Type  : Slow 1200mV 85C Model Hold 'clk'
-Slack : 0.531
+Type  : Slow 1200mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.452
 TNS   : 0.000
 
-Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
-Slack : -3.000
-TNS   : -68.428
-
-Type  : Slow 1200mV 85C Model Minimum Pulse Width 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : -1.487
-TNS   : -16.357
-
-Type  : Slow 1200mV 0C Model Setup 'clk'
-Slack : -3.978
-TNS   : -120.128
-
-Type  : Slow 1200mV 0C Model Setup 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : -1.991
-TNS   : -14.345
-
-Type  : Slow 1200mV 0C Model Hold 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : 0.417
+Type  : Slow 1200mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 95.692
 TNS   : 0.000
 
-Type  : Slow 1200mV 0C Model Hold 'clk'
-Slack : 0.493
+Type  : Slow 1200mV 85C Model Removal 'altera_reserved_tck'
+Slack : 1.631
 TNS   : 0.000
 
-Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
-Slack : -3.000
-TNS   : -68.428
-
-Type  : Slow 1200mV 0C Model Minimum Pulse Width 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : -1.487
-TNS   : -16.357
-
-Type  : Fast 1200mV 0C Model Setup 'clk'
-Slack : -1.285
-TNS   : -29.175
-
-Type  : Fast 1200mV 0C Model Setup 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : -0.422
-TNS   : -1.941
-
-Type  : Fast 1200mV 0C Model Hold 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : 0.193
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.446
 TNS   : 0.000
 
-Type  : Fast 1200mV 0C Model Hold 'clk'
-Slack : 0.222
+Type  : Slow 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 43.376
 TNS   : 0.000
 
-Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
-Slack : -3.000
-TNS   : -49.884
+Type  : Slow 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.400
+TNS   : 0.000
 
-Type  : Fast 1200mV 0C Model Minimum Pulse Width 'semisigments_show:show_sems|generator:gen_led|o_clk'
-Slack : -1.000
-TNS   : -11.000
+Type  : Slow 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 96.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 1.476
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.301
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 46.764
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 97.969
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.449
+TNS   : 0.000
 
 ------------------------------------------------------------

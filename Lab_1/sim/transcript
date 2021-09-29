@@ -26,7 +26,7 @@
 # :><?8;OF8O ?;0BD>@<>7028A8<KE 181;8>B5: (?@8 =5>1E>48<>AB8)
 # vlog -work work $QUARTUS_ROOTDIR/eda/sim_lib/altera_primitives.v
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:45 on Sep 20,2021
+# Start time: 18:57:51 on Sep 29,2021
 # vlog -reportprogress 300 -work work C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_primitives.v 
 # -- Compiling module global
 # -- Compiling module carry
@@ -108,11 +108,11 @@
 # 	alt_iobuf_diff
 # 	alt_bidir_diff
 # 	alt_bidir_buf
-# End time: 11:08:45 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:51 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -work work $QUARTUS_ROOTDIR/eda/sim_lib/220model.v
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:46 on Sep 20,2021
+# Start time: 18:57:52 on Sep 29,2021
 # vlog -reportprogress 300 -work work C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/220model.v 
 # -- Compiling module LPM_MEMORY_INITIALIZATION
 # -- Compiling module LPM_HINT_EVALUATION
@@ -176,11 +176,11 @@
 # 	lpm_inpad
 # 	lpm_outpad
 # 	lpm_bipad
-# End time: 11:08:46 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:52 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -work work $QUARTUS_ROOTDIR/eda/sim_lib/sgate.v
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:46 on Sep 20,2021
+# Start time: 18:57:52 on Sep 29,2021
 # vlog -reportprogress 300 -work work C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/sgate.v 
 # -- Compiling module oper_add
 # -- Compiling module oper_addsub
@@ -222,11 +222,11 @@
 # 	oper_decoder
 # 	oper_bus_mux
 # 	oper_latch
-# End time: 11:08:46 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:52 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -work work $QUARTUS_ROOTDIR/eda/sim_lib/altera_mf.v
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:46 on Sep 20,2021
+# Start time: 18:57:52 on Sep 29,2021
 # vlog -reportprogress 300 -work work C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_mf.v 
 # -- Compiling module lcell
 # -- Compiling module ALTERA_MF_MEMORY_INITIALIZATION
@@ -356,11 +356,11 @@
 # 	alt_fault_injection
 # 	sld_virtual_jtag_basic
 # 	altsource_probe
-# End time: 11:08:46 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:52 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work $QUARTUS_ROOTDIR/eda/sim_lib/altera_lnsim.sv
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -sv -work work C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_lnsim.sv 
 # -- Compiling package altera_lnsim_functions
 # -- Compiling package altera_generic_pll_functions
@@ -443,11 +443,11 @@
 # 	altera_iopll
 # 	fourteennm_altera_iopll
 # 	fourteennm_simple_iopll
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -work work $QUARTUS_ROOTDIR/eda/sim_lib/cycloneive_atoms.v
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -work work C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/cycloneive_atoms.v 
 # -- Compiling UDP CYCLONEIVE_PRIM_DFFE
 # -- Compiling UDP CYCLONEIVE_PRIM_DFFEAS
@@ -525,78 +525,78 @@
 # 	cycloneive_jtag
 # 	cycloneive_crcblock
 # 	cycloneive_oscillator
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # :><?8;OF8O 8AE>4=8:>2 (4>102;O5< =5>1E>48<K5)
 # 
 # vlog -sv -work work +incdir+./ ../semisigments_show.sv
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+./" ../semisigments_show.sv 
 # -- Compiling module semisigments_show
 # 
 # Top level modules:
 # 	semisigments_show
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+./ ../semisegment.sv
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+./" ../semisegment.sv 
 # -- Compiling module semisegment
 # 
 # Top level modules:
 # 	semisegment
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+./ ../generator.sv
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+./" ../generator.sv 
 # -- Compiling module generator
 # 
 # Top level modules:
 # 	generator
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+./ ../bouncing.sv
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+./" ../bouncing.sv 
 # -- Compiling module bouncing
 # 
 # Top level modules:
 # 	bouncing
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+./ ../shift_reg.sv
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+./" ../shift_reg.sv 
 # -- Compiling module shift_reg
 # 
 # Top level modules:
 # 	shift_reg
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+./ ../tb_shift_reg.sv
 # QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+./" ../tb_shift_reg.sv 
 # -- Compiling package tb_shift_reg_sv_unit
 # -- Compiling module tb_shift_reg
 # 
 # Top level modules:
 # 	tb_shift_reg
-# End time: 11:08:47 on Sep 20,2021, Elapsed time: 0:00:00
+# End time: 18:57:53 on Sep 29,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # C:07K205< B>?>2K9 TB
 # vsim work.tb_shift_reg
 # vsim -novopt tb_shift_reg
 # vsim -novopt tb_shift_reg 
-# Start time: 11:08:47 on Sep 20,2021
+# Start time: 18:57:53 on Sep 29,2021
 # ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
 # 
 # Refreshing D:/Documents/Univer/PRSNK_Sharagina/Lab_1/sim/work.tb_shift_reg
@@ -618,21 +618,15 @@
 # 4>102;5=85 A83=0;>2 : >B>1@065=8N
 # 
 # add wave /tb_shift_reg/clk
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-# 
-#           File in use by: Aleksandr  Hostname: DESKTOP-5217ICB  ProcessID: 5788
-# 
-#           Attempting to use alternate WLF file "./wlftbyxzn0".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-# 
-#           Using alternate file: ./wlftbyxzn0
-# 
+# add wave /tb_shift_reg/reset
 # add wave /tb_shift_reg/btn
+# add wave /tb_shift_reg/device/btn
 # add wave /tb_shift_reg/test_stage
 # add wave /tb_shift_reg/counter
 # add wave /tb_shift_reg/device/reset
 # add wave -bin /tb_shift_reg/device/data_reg
-# add wave /tb_shift_reg/device/btn
+# 
+# 
 # 
 # 
 # add wave *
@@ -644,4 +638,5 @@
 # 0 ps
 # 18900 ns
 # WaveRestoreZoom {161600 ns} [simtime]
-# Break key hit
+# End time: 19:05:04 on Sep 29,2021, Elapsed time: 0:07:11
+# Errors: 0, Warnings: 1

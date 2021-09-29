@@ -1,5 +1,7 @@
 `timescale 1ns/1ps
 
+`define TESTBENCH_MODE 1 // 0 - without bouncing; 1 - with bouncing
+
 class myBtn;
     rand bit val;
 endclass
@@ -77,11 +79,11 @@ begin
         end
  
         if(counter == 50)
-            test_stage = BOUNCING;
+            test_stage = `TESTBENCH_MODE ? BOUNCING : HIGH_BTN;
         else if (counter == 75)
             test_stage = HIGH_BTN;
         else if(counter == 175)
-            test_stage = BOUNCING;
+            test_stage = `TESTBENCH_MODE ? BOUNCING : LOW_BTN;
         else if (counter == 200)
             test_stage = LOW_BTN;
         else if (counter == 350) 

@@ -32,12 +32,14 @@ vsim -novopt tb_shift_reg
 # добавление сигналов к отображению
 
 add wave /tb_shift_reg/clk
+add wave /tb_shift_reg/reset
 add wave /tb_shift_reg/btn
+add wave /tb_shift_reg/device/btn
 add wave /tb_shift_reg/test_stage
 # add wave /tb_shift_reg/counter
-add wave /tb_shift_reg/device/reset
+# add wave /tb_shift_reg/device/reset
 add wave -bin /tb_shift_reg/device/data_reg
-add wave /tb_shift_reg/device/btn
+
 
 
 # add wave *

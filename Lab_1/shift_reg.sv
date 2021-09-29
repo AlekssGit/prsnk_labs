@@ -14,32 +14,16 @@ module shift_reg(
 logic [9:0] data_reg;
 logic prev_btn;
 
-logic [20:0] clock_counter;
-
 logic btn;
 logic digit;
-// logic nbtn_i;
-// logic ndigit_i;
+logic nbtn_i;
+logic ndigit_i;
 
-// assign nbtn_i = ~btn_i;
-// assign ndigit_i = digit_i;
-
-assign btn = ~btn_i;
-assign digit = digit_i;
-
-assign clk_o = clk;
+assign nbtn_i = btn_i;
+assign ndigit_i = digit_i;
 
 logic nreset;
-assign nreset = ~reset;
-
-logic clock_18;
-
-assign clock_18 = clock_counter[18];
-
-always @(posedge clk) 
-begin
-	clock_counter++;	
-end
+assign nreset = reset;
 
 semisigments_show show_sems (
     .i_clock (clk),
@@ -52,17 +36,17 @@ semisigments_show show_sems (
     .lcd_out	(semisigment_data)
 );
 
-// bouncing bounce_btn (
-// 	.clk(clk),
-// 	.signal_i(nbtn_i),
-// 	.signal_o(btn)
-// );
+bouncing bounce_btn (
+	.clk(clk),
+	.signal_i(nbtn_i),
+	.signal_o(btn)
+);
 
-// bouncing bounce_digit (
-// 	.clk(clk),
-// 	.signal_i(ndigit_i),
-// 	.signal_o(digit)
-// );
+bouncing bounce_digit (
+	.clk(clk),
+	.signal_i(ndigit_i),
+	.signal_o(digit)
+);
 
 always @(posedge clk, posedge nreset) 
 begin

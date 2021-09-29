@@ -1,4 +1,4 @@
-`define LEVEL_COUNT 32'd10000000 // 50Mhz/5
+`define LEVEL_COUNT 32'd10000 // 50Mhz/5
 
 module bouncing (
     input clk,
@@ -25,8 +25,8 @@ begin
         counter = 0;
     end   
 
-    if(counter == `LEVEL_COUNT) 
-   // if(counter == 32'd25)
+    // if(counter == `LEVEL_COUNT) 
+   if(counter == 32'd25)
     begin
         counter = 0;
         signal_o = signal;

@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Wed Sep 29 18:41:08 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : shift_reg
+Top-level Entity Name : shift_reg
+Family : Cyclone IV E
+Total logic elements : 1,005
+    Total combinational functions : 783
+    Dedicated logic registers : 672
+Total registers : 672
+Total pins : 15
+Total virtual pins : 0
+Total memory bits : 65,536
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

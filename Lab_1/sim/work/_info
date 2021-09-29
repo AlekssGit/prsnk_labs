@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/Documents/Univer/PRSNK_Sharagina/Lab_1/sim
 va_graycounter
-Z1 !s110 1632125326
+Z1 !s110 1632931072
 !i10b 1
 !s100 7RL@7]^Mkb[^0^A4A<DHg3
 INRK6oURi93Dh`96hk@;5[1
@@ -23,7 +23,7 @@ Z6 OL;L;10.4c;61
 r1
 !s85 0
 31
-Z7 !s108 1632125326.000000
+Z7 !s108 1632931072.000000
 Z8 !s107 C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_mf.v|
 Z9 !s90 -reportprogress|300|-work|work|C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_mf.v|
 !i113 0
@@ -69,7 +69,7 @@ R9
 !i113 0
 R10
 valt_bidir_buf
-Z11 !s110 1632125325
+Z11 !s110 1632931071
 !i10b 1
 !s100 `k9N_NNE[omlCfHHm=PO53
 IjQ5C?AXH>Pf0m]aX;IO6l0
@@ -83,7 +83,7 @@ R6
 r1
 !s85 0
 31
-Z15 !s108 1632125325.000000
+Z15 !s108 1632931071.000000
 Z16 !s107 C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_primitives.v|
 Z17 !s90 -reportprogress|300|-work|work|C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_primitives.v|
 !i113 0
@@ -550,7 +550,7 @@ R9
 R10
 valtera_arriav_pll
 Z18 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
-Z19 !s110 1632125327
+Z19 !s110 1632931073
 !i10b 1
 !s100 =P7CDUZSG9W8kBfd_h_CR2
 IBQWc8X4ZNM2dJ?SP<^cAf0
@@ -566,7 +566,7 @@ R6
 r1
 !s85 0
 31
-Z24 !s108 1632125327.000000
+Z24 !s108 1632931073.000000
 Z25 !s107 C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_lnsim.sv|
 Z26 !s90 -reportprogress|300|-sv|-work|work|C:\intelFPGA_lite\20.1.1\quartus/eda/sim_lib/altera_lnsim.sv|
 !i113 0
@@ -1725,15 +1725,15 @@ r1
 !s85 0
 31
 !i10b 1
-!s100 Rm^6NCI0M920DQ6_0X=>m0
-IQKPlDm?z;92a<A?B7a`MB0
+!s100 n1C2oJ@?PjfdX;VIE[InU2
+I]CmReQX@K]OXC]80d`d?P1
 !s105 bouncing_sv_unit
 S1
 R0
-w1632124497
+w1632931027
 8../bouncing.sv
 F../bouncing.sv
-L0 1
+L0 3
 R6
 R24
 !s107 ../bouncing.sv|
@@ -5576,12 +5576,12 @@ r1
 !s85 0
 31
 !i10b 1
-!s100 dH[e5ma^oEoLO8g<^FbXi3
-I]]Qd:V67o[Yon^[Wd@TcH0
+!s100 lZj3C`KzJZIbFa7PJCm9B3
+I7Z;P0NZ:<f^dVgfL]AMWn3
 !s105 shift_reg_sv_unit
 S1
 R0
-w1632124707
+w1632930827
 8../shift_reg.sv
 F../shift_reg.sv
 L0 3
@@ -5974,21 +5974,21 @@ R9
 R10
 vtb_shift_reg
 R18
-DXx4 work 20 tb_shift_reg_sv_unit 0 22 z?3SE5zW3DR:ib728B9@b1
+DXx4 work 20 tb_shift_reg_sv_unit 0 22 5UfcIzaSPl^:l`I_ImSHH3
 R2
 r1
 !s85 0
 31
 !i10b 1
-!s100 VF]8dGZf8:`l9JT[?7zfQ2
-IBj@cT`mUn:YIOG]AG_Geo1
+!s100 6oB:geA:=5lK=oNo1fHZ`1
+IhMg7M1A@N;>@k=TAg6;Y12
 !s105 tb_shift_reg_sv_unit
 S1
 R0
-Z49 w1632125314
+Z49 w1632930777
 Z50 8../tb_shift_reg.sv
 Z51 F../tb_shift_reg.sv
-L0 7
+L0 9
 R6
 R24
 Z52 !s107 ../tb_shift_reg.sv|
@@ -5998,20 +5998,20 @@ R27
 R29
 Xtb_shift_reg_sv_unit
 R18
-Vz?3SE5zW3DR:ib728B9@b1
+V5UfcIzaSPl^:l`I_ImSHH3
 r1
 !s85 0
 31
 !i10b 1
-!s100 F6a0QQTNEjK3Ob]F0`lPT0
-Iz?3SE5zW3DR:ib728B9@b1
+!s100 fdoC<[dcec]O>4?:k:VRi3
+I5UfcIzaSPl^:l`I_ImSHH3
 !i103 1
 S1
 R0
 R49
 R50
 R51
-L0 3
+L0 5
 R6
 R24
 R52
