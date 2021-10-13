@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+valtera_reset_controller
+IiS0[<EIc1MV2ggQ^FJ6iM1
+VBWWT<i0A@QcN4KE]hBS<V0
+Z1 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+Z2 w1633605123
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_controller.v
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_controller.v
+L0 29
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-work rst_controller -O0
+!i10b 1
+!s100 5UEk>YPiPFb@Rj0:MNR_Z0
+!s85 0
+!s108 1634137596.910000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_controller.v|-work|rst_controller|
+!s101 -O0
+valtera_reset_synchronizer
+!i10b 1
+!s100 NDezCIBg3<zdMGAi:Z;ol3
+I<fW?o2F>9Z[B99X1a6QTR1
+V3CjoOZCIEdzCJgPn8]D7`2
+R1
+R2
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_synchronizer.v
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_synchronizer.v
+L0 24
+R3
+r1
+!s85 0
+31
+!s108 1634137597.098000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_reset_synchronizer.v|-work|rst_controller|
+!s101 -O0
+R4

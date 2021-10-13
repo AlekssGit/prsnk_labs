@@ -1,0 +1,27 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+vnios_old_cmd_xbar_demux_001
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 fXR0WUMJ1<B@3Gl@WbMd10
+I5E6f8CR=HXCDDM@MT53WS2
+V9FJRoR]JC43VL46m^B<K=1
+!s105 nios_old_cmd_xbar_demux_001_sv_unit
+S1
+Z1 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+w1633605123
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_cmd_xbar_demux_001.sv
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_cmd_xbar_demux_001.sv
+L0 43
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1634137596.452000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_cmd_xbar_demux_001.sv|
+!s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_cmd_xbar_demux_001.sv|-work|cmd_xbar_demux_001|
+!s101 -O0
+o-sv -work cmd_xbar_demux_001 -O0

@@ -1,0 +1,11 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+valtera_avalon_sc_fifo
+!s108 1634137598.329000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_avalon_sc_fifo.v|-work|nios2_qsys_0_jtag_debug_module_translator_avalon_universal_slave_0_agent_rsp_fifo|
+!s101 -O0
+o-work nios2_qsys_0_jtag_debug_module_translator_avalon_universal_slave_0_agent_rsp_fifo -O0

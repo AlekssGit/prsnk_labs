@@ -1,0 +1,10 @@
+module lab_4 (
+	input clk,
+	input reset,
+	output logic [3:0] led
+);
+
+
+
+
+endmodule

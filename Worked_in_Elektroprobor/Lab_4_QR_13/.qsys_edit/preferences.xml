@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable>
+  <columns>
+   <connections preferredWidth="127" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <clocktable>
+  <columns>
+   <clockname preferredWidth="431" />
+   <clocksource preferredWidth="431" />
+   <frequency preferredWidth="412" />
+  </columns>
+ </clocktable>
+ <library
+   expandedCategories="Library,Library/Embedded Processors,Library/Interface Protocols/Ethernet,Library/Interface Protocols/Transceiver PHY,Library/Interface Protocols/SDI,Project,Library/Bridges,Library/Bridges/Streaming,Library/Peripherals,Library/Verification/Simulation,Library/Interface Protocols/RapidIO,Library/Interface Protocols,Library/Verification,Library/Interface Protocols/Ethernet/Submodules,Library/Peripherals/Microcontroller Peripherals" />
+ <window width="1698" height="1006" x="0" y="0" />
+ <hdlexample language="VERILOG" />
+ <generation
+   testbench_system="STANDARD"
+   testbench_simulation="VERILOG"
+   synthesis="VERILOG"
+   block_symbol_file="0" />
+</preferences>

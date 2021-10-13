@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+valtera_merlin_burst_uncompressor
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 Mi72T@VBl7JQ_lFT]eN:J0
+IzeiXBYAA8=<>8eP1d<`WC2
+Vk1gIA`RY2OQ1N9QbTULJo2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+Z2 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+Z3 w1633605122
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_burst_uncompressor.sv
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1633608257.132000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_burst_uncompressor.sv|-work|nios2_qsys_0_jtag_debug_module_translator_avalon_universal_slave_0_agent|
+!s101 -O0
+Z5 o-sv -work nios2_qsys_0_jtag_debug_module_translator_avalon_universal_slave_0_agent -O0
+valtera_merlin_slave_agent
+R1
+IC37o60S=R24SgdMMK@0]:1
+VekU5U46jGhemBCkL?m_og2
+S1
+R2
+R3
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_slave_agent.sv
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_slave_agent.sv
+L0 34
+R4
+r1
+31
+R5
+!i10b 1
+!s100 7WCIKDKdXHa_`[<@N[>zA3
+!s105 altera_merlin_slave_agent_sv_unit
+!s85 0
+!s108 1633608256.781000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_slave_agent.sv|-work|nios2_qsys_0_jtag_debug_module_translator_avalon_universal_slave_0_agent|
+!s101 -O0

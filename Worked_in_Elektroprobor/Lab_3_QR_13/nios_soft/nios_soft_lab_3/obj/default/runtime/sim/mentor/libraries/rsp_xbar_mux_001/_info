@@ -1,0 +1,71 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+valtera_merlin_arb_adder
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Ig[:SQ^[e;BWbG=ckj8Wd70
+VeEm48mj>0hhNR4acO5n:k1
+Z2 !s105 altera_merlin_arbitrator_sv_unit
+S1
+Z3 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+Z4 w1633605123
+Z5 8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_arbitrator.sv
+Z6 FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_arbitrator.sv
+L0 228
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1634137595.049000
+Z9 !s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_arbitrator.sv|
+Z10 !s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_arbitrator.sv|-work|rsp_xbar_mux_001|
+Z11 o-sv -work rsp_xbar_mux_001 -O0
+!i10b 1
+!s100 fJ4BId8nZB7V<6OCJS4=I3
+!s85 0
+!s101 -O0
+valtera_merlin_arbitrator
+R1
+I=Te2eiIn69H5VBf6LZmkA2
+VkoHZHN`N_KjQAPBBQ3eh^0
+R2
+S1
+R3
+R4
+R5
+R6
+L0 103
+R7
+r1
+31
+R8
+R9
+R10
+R11
+!i10b 1
+!s100 aAa309=cPOfn6UF4P85N82
+!s85 0
+!s101 -O0
+vnios_old_rsp_xbar_mux_001
+R1
+!i10b 1
+!s100 Uf`i7UmAkThU?<]Ce6jKV3
+IY=Sk:2]83dBL2ZMjTi2ac3
+VnVCWH:>azCVZMRP27QCON3
+!s105 nios_old_rsp_xbar_mux_001_sv_unit
+S1
+R3
+R4
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_rsp_xbar_mux_001.sv
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_rsp_xbar_mux_001.sv
+L0 38
+R7
+r1
+!s85 0
+31
+!s108 1634137595.206000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_rsp_xbar_mux_001.sv|
+!s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_rsp_xbar_mux_001.sv|-work|rsp_xbar_mux_001|
+!s101 -O0
+R11

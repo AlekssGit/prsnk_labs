@@ -1,0 +1,27 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+valtera_merlin_master_agent
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 haJhT<cW8CgS1:V97f2>S3
+IP[OUFPi_6CEa1fHSGLFd@2
+VG[gHYg_J=R2@KnI_[bEjA0
+!s105 altera_merlin_master_agent_sv_unit
+S1
+Z1 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+w1633605122
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_master_agent.sv
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_master_agent.sv
+L0 28
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1633608257.356000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/altera_merlin_master_agent.sv|-work|nios2_qsys_0_instruction_master_translator_avalon_universal_master_0_agent|
+!s101 -O0
+o-sv -work nios2_qsys_0_instruction_master_translator_avalon_universal_master_0_agent -O0

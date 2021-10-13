@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+vnios_old_id_router_002
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 F]lfQeH9Q8cQJSXS>HY8z3
+I`W=b[SS7Oo[RPVS2e:Gi;2
+VBe3GF`K8:0aDg6hC=GNQS2
+Z2 !s105 nios_old_id_router_002_sv_unit
+S1
+Z3 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Worked_in_Elektroprobor\Lab_3_QR_13\nios_soft\nios_soft_lab_3\obj\default\runtime\sim\mentor
+Z4 w1633605122
+Z5 8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_id_router_002.sv
+Z6 FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_id_router_002.sv
+L0 86
+Z7 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z8 !s108 1634137597.320000
+Z9 !s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_id_router_002.sv|
+Z10 !s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_id_router_002.sv|-work|id_router_002|
+!s101 -O0
+Z11 o-sv -work id_router_002 -O0
+vnios_old_id_router_002_default_decode
+R1
+!i10b 1
+!s100 SkYooD1c_0Xd=RbPo`9;L0
+IO;oWOVI]JllEbIn;SI9;53
+VWojl0cJe?]_WC^58i=89@2
+R2
+S1
+R3
+R4
+R5
+R6
+L0 45
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
