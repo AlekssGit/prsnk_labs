@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+vnios_old_pio_0
+!i10b 1
+!s100 OlZnm`GNdGm^7R13DQFR61
+ISMQS]7C[KCD@?AVZA6z]02
+V^F7@U@=PNTmL^LjU`IZlk0
+Z1 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+w1633605122
+8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_pio_0.v
+FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_pio_0.v
+L0 21
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1633608258.035000
+!s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_pio_0.v|
+!s90 -reportprogress|300|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_pio_0.v|-work|pio_0|
+!s101 -O0
+o-work pio_0 -O0

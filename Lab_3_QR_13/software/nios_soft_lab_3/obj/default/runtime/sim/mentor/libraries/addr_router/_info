@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+vnios_old_addr_router
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 ^QCgj`;DRjnJ<FJWXNQ1m3
+I:8_4<K^VaHDNaM74XF<j=0
+V99z^X^97Ek7bK0e1H;KE_0
+Z2 !s105 nios_old_addr_router_sv_unit
+S1
+Z3 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+Z4 w1633605122
+Z5 8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_addr_router.sv
+Z6 FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_addr_router.sv
+L0 86
+Z7 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z8 !s108 1633608256.279000
+Z9 !s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_addr_router.sv|
+Z10 !s90 -reportprogress|300|-sv|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_addr_router.sv|-work|addr_router|
+!s101 -O0
+Z11 o-sv -work addr_router -O0
+vnios_old_addr_router_default_decode
+R1
+!i10b 1
+!s100 K[9nH3DU0Gjfie35nEXDP0
+If]eh5E8<mB71j=lQOl5:V3
+V[L75Z[fn7CI?SckF8@>a43
+R2
+S1
+R3
+R4
+R5
+R6
+L0 45
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11

@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+vnios_old_jtag_uart_0
+!i10b 1
+!s100 G7nWm?>kXBI_J68JhfX>N1
+Iog;[ff[eLW[kANKVdlO=@3
+V5oDUgh<lLYW`imSmSQnR42
+Z1 dC:\Users\alvas\Documents\Univer\6_kurs\PRSNK\Lab_3_QR_13\software\nios_soft_lab_3\obj\default\runtime\sim\mentor
+Z2 w1633605121
+Z3 8C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_jtag_uart_0.v
+Z4 FC:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_jtag_uart_0.v
+L0 327
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1633608258.418000
+Z7 !s107 C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_jtag_uart_0.v|
+Z8 !s90 -reportprogress|300|C:/Users/alvas/Documents/Univer/6_kurs/PRSNK/Lab_3_QR_13/nios_old/testbench/nios_old_tb/simulation/submodules/nios_old_jtag_uart_0.v|-work|jtag_uart_0|
+!s101 -O0
+Z9 o-work jtag_uart_0 -O0
+vnios_old_jtag_uart_0_scfifo_r
+!i10b 1
+!s100 <b`Ggh_U1akScSIZEo`5Q3
+I=Y1>?U=`M^_^^2Q`1__313
+V7[7:<]U=P:W1jg^:l5SYF0
+R1
+R2
+R3
+R4
+L0 240
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+vnios_old_jtag_uart_0_scfifo_w
+!i10b 1
+!s100 o7NFJ<e8If[`H>l8[_D=B3
+IS:G22bINlN8ObmD1^SSII1
+VC6Yk7jUezXAoMk_l2e4N[2
+R1
+R2
+R3
+R4
+L0 77
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+vnios_old_jtag_uart_0_sim_scfifo_r
+!i10b 1
+!s100 2IacL]IcI4G@[<Qgg?6Y;1
+IO19ClolioFZ8P1m3jHK7^2
+VKkie]OJ7?9h4ZbRf=C5UZ3
+R1
+R2
+R3
+R4
+L0 162
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+vnios_old_jtag_uart_0_sim_scfifo_w
+!i10b 1
+!s100 ^;e_iADo3PPRBd>l_l_=42
+I7[NSDBPILhn]D=@7;NMaC1
+VQih8QWhNJ1lMzI8YLja^?3
+R1
+R2
+R3
+R4
+L0 21
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
