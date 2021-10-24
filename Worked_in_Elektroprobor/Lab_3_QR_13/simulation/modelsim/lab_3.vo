@@ -16,7 +16,7 @@
 // PROGRAM "Quartus II 64-Bit"
 // VERSION "Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition"
 
-// DATE "10/13/2021 17:48:37"
+// DATE "10/24/2021 11:54:20"
 
 // 
 // Device: Altera 5CSXFC6D6F31C8ES Package FBGA896
@@ -1760,6 +1760,23 @@ wire \led_fpga[2]~3_combout ;
 wire \led_o~2_combout ;
 wire \altera_reserved_tms~input_o ;
 wire \altera_internal_jtag~TDO ;
+wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_tck|the_altera_std_synchronizer1|dreg ;
+wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_tck|the_altera_std_synchronizer2|dreg ;
+wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_sysclk|the_altera_std_synchronizer3|dreg ;
+wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_sysclk|the_altera_std_synchronizer4|dreg ;
+wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_w|wfifo|auto_generated|dpfifo|wr_ptr|counter_reg_bit ;
+wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|fifo_state|count_usedw|counter_reg_bit ;
+wire [7:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|FIFOram|altsyncram1|q_b ;
+wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|rd_ptr_count|counter_reg_bit ;
+wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|wr_ptr|counter_reg_bit ;
+wire [1:0] \nios_instance|onchip_memory2_0_s1_translator_avalon_universal_slave_0_agent_rsp_fifo|mem_used ;
+wire [1:0] \nios_instance|jtag_uart_0_avalon_jtag_slave_translator_avalon_universal_slave_0_agent_rsp_fifo|mem_used ;
+wire [1:0] \nios_instance|pio_0_s1_translator_avalon_universal_slave_0_agent_rsp_fifo|mem_used ;
+wire [87:0] \nios_instance|cmd_xbar_mux_001|src_data ;
+wire [1:0] \nios_instance|cmd_xbar_mux_001|saved_grant ;
+wire [1:0] \nios_instance|cmd_xbar_mux_001|arb|top_priority_reg ;
+wire [2:0] led_fpga;
+wire [4:0] counter;
 wire [4:0] \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg ;
 wire [9:0] \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|jtag_ir_reg ;
 wire [6:0] \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg ;
@@ -1772,6 +1789,33 @@ wire [2:0] \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|tms_cnt ;
 wire [15:0] \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state ;
 wire [4:0] \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter ;
 wire [3:0] \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR ;
+wire [31:0] \nios_instance|nios2_qsys_0|d_writedata ;
+wire [3:0] \nios_instance|nios2_qsys_0|d_byteenable ;
+wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte3_data ;
+wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte2_data ;
+wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte1_data ;
+wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte0_data ;
+wire [1:0] \nios_instance|nios2_qsys_0|av_ld_align_cycle ;
+wire [31:0] \nios_instance|nios2_qsys_0|W_ipending_reg ;
+wire [31:0] \nios_instance|nios2_qsys_0|W_ienable_reg ;
+wire [31:0] \nios_instance|nios2_qsys_0|W_control_rd_data ;
+wire [31:0] \nios_instance|nios2_qsys_0|W_alu_result ;
+wire [1:0] \nios_instance|nios2_qsys_0|R_logic_op ;
+wire [4:0] \nios_instance|nios2_qsys_0|R_dst_regnum ;
+wire [1:0] \nios_instance|nios2_qsys_0|R_compare_op ;
+wire [14:0] \nios_instance|nios2_qsys_0|F_pc ;
+wire [31:0] \nios_instance|nios2_qsys_0|E_src2 ;
+wire [31:0] \nios_instance|nios2_qsys_0|E_src1 ;
+wire [31:0] \nios_instance|nios2_qsys_0|E_shift_rot_result ;
+wire [4:0] \nios_instance|nios2_qsys_0|E_shift_rot_cnt ;
+wire [31:0] \nios_instance|nios2_qsys_0|D_iw ;
+wire [31:0] \nios_instance|nios2_qsys_0|nios_old_nios2_qsys_0_register_bank_a|the_altsyncram|auto_generated|q_b ;
+wire [31:0] \nios_instance|nios2_qsys_0|nios_old_nios2_qsys_0_register_bank_b|the_altsyncram|auto_generated|q_b ;
+wire [31:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|writedata ;
+wire [31:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|readdata ;
+wire [3:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|byteenable ;
+wire [8:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|address ;
+wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_nios2_oci_debug|the_altera_std_synchronizer|dreg ;
 wire [31:0] \nios_instance|onchip_memory2_0|the_altsyncram|auto_generated|q_a ;
 wire [2:0] \nios_instance|pio_0|data_out ;
 wire [0:0] \nios_instance|nios2_qsys_0_jtag_debug_module_translator|read_latency_shift_reg ;
@@ -1807,50 +1851,6 @@ wire [10:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_
 wire [31:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_nios2_ocimem|nios_old_nios2_qsys_0_ociram_sp_ram|the_altsyncram|auto_generated|q_a ;
 wire [31:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_nios2_avalon_reg|oci_ienable ;
 wire [31:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_nios2_oci_break|break_readreg ;
-wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_tck|the_altera_std_synchronizer1|dreg ;
-wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_tck|the_altera_std_synchronizer2|dreg ;
-wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_sysclk|the_altera_std_synchronizer3|dreg ;
-wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_jtag_debug_module_wrapper|the_nios_old_nios2_qsys_0_jtag_debug_module_sysclk|the_altera_std_synchronizer4|dreg ;
-wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_w|wfifo|auto_generated|dpfifo|wr_ptr|counter_reg_bit ;
-wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|fifo_state|count_usedw|counter_reg_bit ;
-wire [7:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|FIFOram|altsyncram1|q_b ;
-wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|rd_ptr_count|counter_reg_bit ;
-wire [5:0] \nios_instance|jtag_uart_0|the_nios_old_jtag_uart_0_scfifo_r|rfifo|auto_generated|dpfifo|wr_ptr|counter_reg_bit ;
-wire [1:0] \nios_instance|onchip_memory2_0_s1_translator_avalon_universal_slave_0_agent_rsp_fifo|mem_used ;
-wire [1:0] \nios_instance|jtag_uart_0_avalon_jtag_slave_translator_avalon_universal_slave_0_agent_rsp_fifo|mem_used ;
-wire [1:0] \nios_instance|pio_0_s1_translator_avalon_universal_slave_0_agent_rsp_fifo|mem_used ;
-wire [87:0] \nios_instance|cmd_xbar_mux_001|src_data ;
-wire [1:0] \nios_instance|cmd_xbar_mux_001|saved_grant ;
-wire [1:0] \nios_instance|cmd_xbar_mux_001|arb|top_priority_reg ;
-wire [2:0] led_fpga;
-wire [4:0] counter;
-wire [31:0] \nios_instance|nios2_qsys_0|d_writedata ;
-wire [3:0] \nios_instance|nios2_qsys_0|d_byteenable ;
-wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte3_data ;
-wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte2_data ;
-wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte1_data ;
-wire [7:0] \nios_instance|nios2_qsys_0|av_ld_byte0_data ;
-wire [1:0] \nios_instance|nios2_qsys_0|av_ld_align_cycle ;
-wire [31:0] \nios_instance|nios2_qsys_0|W_ipending_reg ;
-wire [31:0] \nios_instance|nios2_qsys_0|W_ienable_reg ;
-wire [31:0] \nios_instance|nios2_qsys_0|W_control_rd_data ;
-wire [31:0] \nios_instance|nios2_qsys_0|W_alu_result ;
-wire [1:0] \nios_instance|nios2_qsys_0|R_logic_op ;
-wire [4:0] \nios_instance|nios2_qsys_0|R_dst_regnum ;
-wire [1:0] \nios_instance|nios2_qsys_0|R_compare_op ;
-wire [14:0] \nios_instance|nios2_qsys_0|F_pc ;
-wire [31:0] \nios_instance|nios2_qsys_0|E_src2 ;
-wire [31:0] \nios_instance|nios2_qsys_0|E_src1 ;
-wire [31:0] \nios_instance|nios2_qsys_0|E_shift_rot_result ;
-wire [4:0] \nios_instance|nios2_qsys_0|E_shift_rot_cnt ;
-wire [31:0] \nios_instance|nios2_qsys_0|D_iw ;
-wire [31:0] \nios_instance|nios2_qsys_0|nios_old_nios2_qsys_0_register_bank_a|the_altsyncram|auto_generated|q_b ;
-wire [31:0] \nios_instance|nios2_qsys_0|nios_old_nios2_qsys_0_register_bank_b|the_altsyncram|auto_generated|q_b ;
-wire [31:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|writedata ;
-wire [31:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|readdata ;
-wire [3:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|byteenable ;
-wire [8:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|address ;
-wire [0:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_nios2_oci_debug|the_altera_std_synchronizer|dreg ;
 
 wire [39:0] \nios_instance|nios2_qsys_0|nios_old_nios2_qsys_0_register_bank_b|the_altsyncram|auto_generated|ram_block1a0_PORTBDATAOUT_bus ;
 wire [19:0] \nios_instance|nios2_qsys_0|the_nios_old_nios2_qsys_0_nios2_oci|the_nios_old_nios2_qsys_0_nios2_ocimem|nios_old_nios2_qsys_0_ociram_sp_ram|the_altsyncram|auto_generated|ram_block1a0_PORTADATAOUT_bus ;
